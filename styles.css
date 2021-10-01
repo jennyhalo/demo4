@@ -12,6 +12,9 @@ body {
       p {
         color: green;
       }
-        div {
-            border-style: dotted
+        .reunus {
+            border-style: dotted;
+            border-width: 2px;
+            width: 100px;
+            height: 100px;
             }
