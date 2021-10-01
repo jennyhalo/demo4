@@ -18,3 +18,9 @@ body {
             width: 100px;
             height: 100px;
             }
+            ol {
+                list-style-type: upper-alpha;
+              }
+              ul {
+                list-style-type: square;
+              }
